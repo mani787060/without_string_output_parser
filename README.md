@@ -71,7 +71,7 @@ These fields may contain information about the model response, token usage, or p
 
 Both approaches are useful. The right choice depends on whether you need the complete response object or only the generated text.
 
-## 🧰 Tech Stack
+## 🧰 Tech Stacks
 
 - **Language:** Python
 - **LLM Framework:** LangChain
@@ -130,4 +130,3 @@ If your Python file has a different name, replace the filename in the command.
 Working directly with LangChain's model response helps you understand the structure behind generated text and the metadata that may accompany it.
 
 This knowledge provides a useful foundation for debugging, monitoring, and building Generative AI applications. It also helps explain why output parsers such as `StrOutputParser` are useful when a workflow needs only clean text.
-
