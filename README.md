@@ -131,9 +131,3 @@ Working directly with LangChain's model response helps you understand the struct
 
 This knowledge provides a useful foundation for debugging, monitoring, and building Generative AI applications. It also helps explain why output parsers such as `StrOutputParser` are useful when a workflow needs only clean text.
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- Repository: [without_string_output_parser](https://github.com/mani787060/without_string_output_parser)
